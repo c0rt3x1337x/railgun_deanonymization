@@ -84,7 +84,7 @@ submission/
    - `python src/figures/make_tikz.py`
 
 ## Citation
-
+```
 @misc{huseynov2026tatteredcloakinvisibilitymeasuring,
       title={A Tattered Cloak of Invisibility: Measuring Anonymity Loss in Railgun on Ethereum}, 
       author={Kanan Huseynov and Ali Shahzaib and István András Seres and János Tapolcai},
@@ -94,7 +94,7 @@ submission/
       primaryClass={cs.CR},
       url={https://arxiv.org/abs/2606.25926}, 
 }
-
+```
 ## License
 
 TBD
