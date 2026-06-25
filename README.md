@@ -1,3 +1,6 @@
+<img width="1447" height="1087" alt="image" src="https://github.com/user-attachments/assets/2b5b0484-4f58-4655-b5e0-b604568109e7" />
+
+
 # A Tattered Cloak of Invisibility: Measuring Anonymity Loss in RAILGUN on Ethereum
 
 Reference implementation for the empirical heuristics used in the paper.
